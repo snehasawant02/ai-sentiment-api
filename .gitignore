@@ -1,0 +1,20 @@
+# Ignore virtual environments
+myenv/
+
+# Ignore environment variables
+.env
+
+# Ignore binary files
+*.dll
+*.lib
+*.exe
+*.bin
+
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
